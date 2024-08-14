@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  font-size: 14px;
+}
+
+body {
+  background-color: #f7f7ff !important;
+  font-family: "mouse-300", Arial, Helvetica, sans-serif;
+  color: #6A6A6A; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "mouse-500", Arial, Helvetica, sans-serif;
+}
+
+strong {
+  font-family: "mouse-500", Arial, Helvetica, sans-serif;
+  background-color: #f7f7ff;
+}
+
+a {
+  color:#2f80ed;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.page-break {
+  break-before: page; 
+}
+
+@media (max-width: 900px) {
+  html {
+    font-size: 12px;
+  }
+}
