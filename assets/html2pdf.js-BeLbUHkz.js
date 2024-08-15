@@ -1,4 +1,4 @@
-import{c as xe,g as Le}from"./core-js-CQR2fMTp.js";import{r as Fe}from"./jspdf-CyGrbpHo.js";import{r as De}from"./html2canvas-D5jUIzeO.js";var Ce={exports:{}};/*!
+import{c as xe,g as Le}from"./core-js-CQR2fMTp.js";import{r as Fe}from"./jspdf-DpUtwnUc.js";import{r as De}from"./html2canvas-D5jUIzeO.js";var Ce={exports:{}};/*!
  * html2pdf.js v0.10.2
  * Copyright (c) 2024 Erik Koopmans
  * Released under the MIT License.
