@@ -71,3 +71,10 @@ aside {
     }
   }
 }
+
+@media (max-width: 420px) {
+  aside {
+    flex-basis: 20%;
+    margin: 0px;
+  }
+}

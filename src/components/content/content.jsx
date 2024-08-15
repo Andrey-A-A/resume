@@ -22,7 +22,7 @@ const Content = ({ generatePdf }) => {
               </div>
               <div className="title__icon-age">
                 <img src={Person} alt="возраст" />
-                <p>50 лет</p>
+                <p>51 год</p>
               </div>
             </div>
         </div>
