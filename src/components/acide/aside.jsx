@@ -48,6 +48,7 @@ const Aside = () => {
             </div>
           </div>
         </div>
+        <div className='page-break'></div>
         <div className="profile__skils">
           <h4 className="profile__title">Навыки</h4>
           <ul>
@@ -75,12 +76,10 @@ const Aside = () => {
             <li>Ajax</li>
             <li>MySQL</li>
             <li>PostgreSQL</li>
-            <div className="page-break"></div>
             <li>Jest</li>
             <li>CMS ModX</li>
             <li>CMS OpenCart</li>
             <li>CMS Wordpress</li>
-            
           </ul>
         </div>
     </aside>
